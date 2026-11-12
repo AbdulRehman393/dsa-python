@@ -1,6 +1,6 @@
 # DSA Python Track 🚀
 
-A structured repository dedicated to mastering **Data Structures and Algorithms (DSA)** in Python through consistent daily practice, pattern recognition, and complexity analysis.
+A structured repository dedicated to mastering Data Structures and Algorithms (DSA) in Python through consistent daily practice, pattern recognition, and complexity analysis.
 
 ---
 
@@ -15,7 +15,7 @@ A structured repository dedicated to mastering **Data Structures and Algorithms 
 
 ---
 
-## 🗺️ Topic Sequence
+## 📖 Topic Sequence
 
 - [ ] **01. Big O Notation & Complexity Analysis** *(Notes)*
 - [ ] **02. Arrays & Hashing** *(Contains Duplicate, Valid Anagram, Two Sum, Group Anagrams, Top K Frequent Elements)*
@@ -32,7 +32,7 @@ A structured repository dedicated to mastering **Data Structures and Algorithms 
 
 ## 📌 Engineering Standards & Workflow
 
-1. **Daily Discipline:** 30 minutes daily focused on algorithmic efficiency and clean Pythonic implementations (scaled to 15 minutes during exam periods).
+1. **Daily Discipline:** 30 minutes daily focused on algorithmic efficiency and clean Pythonic implementations (scaled to 15 minutes during university exam periods).
 2. **Independent Problem Solving:** Every problem is attempted independently for 20–30 minutes before reviewing alternative solutions.
 3. **Spaced Repetition:** Solutions are rewritten from scratch after closing references, then re-solved 7 days later to solidify pattern recognition.
 4. **Documentation Standard:** Every `.py` file includes the problem link, intuition/approach notes, edge cases, and **Time & Space Complexity** analysis in the top docstring.
