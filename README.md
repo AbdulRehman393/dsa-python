@@ -36,6 +36,7 @@ A structured repository of Data Structures and Algorithms implementations and al
 dsa-python/
 ├── README.md
 ├── .gitignore
+├── notes/                         # Concept summaries & study notes
 ├── 01_arrays_and_hashing/
 ├── 02_two_pointers/
 ├── 03_stack/
