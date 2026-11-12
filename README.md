@@ -1,38 +1,47 @@
-# DSA Python Track 🚀
+# DSA Python
 
-A structured repository dedicated to mastering Data Structures and Algorithms (DSA) in Python through consistent daily practice, pattern recognition, and complexity analysis.
-
----
-
-## 📊 Progress Tracker
-
-| Metric | Current | Target (Sep 2027) | Final Target (Nov 2027) |
-| :--- | :---: | :---: | :---: |
-| **Problems Solved** | **0** | **~50** | **100 – 150** |
-| 🟢 Easy | 0 | — | — |
-| 🟡 Medium | 0 | — | — |
-| 🔴 Hard | 0 | *Skipped* | *Deferred* |
+A structured repository of Data Structures and Algorithms implementations and algorithmic problem solutions in Python, organized by core computer science patterns with time and space complexity analysis.
 
 ---
 
-## 📖 Topic Sequence
+## 📊 Progress Overview
 
-- [ ] **01. Big O Notation & Complexity Analysis** *(Notes)*
-- [ ] **02. Arrays & Hashing** *(Contains Duplicate, Valid Anagram, Two Sum, Group Anagrams, Top K Frequent Elements)*
-- [ ] **03. Two Pointers** *(Valid Palindrome, Two Sum II, 3Sum)*
-- [ ] **04. Stack** *(Valid Parentheses, Min Stack, Daily Temperatures)*
-- [ ] **05. Binary Search** *(Binary Search, Search a 2D Matrix, Koko Eating Bananas, Find Minimum in Rotated Sorted Array)*
-- [ ] **06. Sliding Window** *(Best Time to Buy and Sell Stock, Longest Substring Without Repeating Characters, Longest Repeating Character Replacement)*
-- [ ] **07. Linked List** *(Reverse Linked List, Merge Two Sorted Lists, Linked List Cycle, Remove Nth Node From End of List, Reorder List)*
-- [ ] **08. Queues & Sorting** *(Merge Sort implementation & Queue fundamentals)*
-- [ ] **09. Trees & Recursion** *(Invert Binary Tree, Maximum Depth of Binary Tree, Same Tree, Level Order Traversal, Validate BST)*
-- [ ] **10. Mixed Medium Practice** *(Spaced repetition & timed problem solving)*
+| Category | Solved |
+| :--- | :---: |
+| **Total Problems** | **0** |
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
 
 ---
 
-## 📌 Engineering Standards & Workflow
+## 📖 Topics Covered
 
-1. **Daily Discipline:** 30 minutes daily focused on algorithmic efficiency and clean Pythonic implementations (scaled to 15 minutes during university exam periods).
-2. **Independent Problem Solving:** Every problem is attempted independently for 20–30 minutes before reviewing alternative solutions.
-3. **Spaced Repetition:** Solutions are rewritten from scratch after closing references, then re-solved 7 days later to solidify pattern recognition.
-4. **Documentation Standard:** Every `.py` file includes the problem link, intuition/approach notes, edge cases, and **Time & Space Complexity** analysis in the top docstring.
+- [ ] **01. Big O Notation & Complexity Analysis**
+- [ ] **02. Arrays & Hashing**
+- [ ] **03. Two Pointers**
+- [ ] **04. Stack**
+- [ ] **05. Binary Search**
+- [ ] **06. Sliding Window**
+- [ ] **07. Linked List**
+- [ ] **08. Queues & Sorting**
+- [ ] **09. Trees & Recursion**
+- [ ] **10. Mixed Algorithmic Practice**
+
+---
+
+## 📁 Repository Structure
+
+```text
+dsa-python/
+├── README.md
+├── .gitignore
+├── 01_arrays_and_hashing/
+├── 02_two_pointers/
+├── 03_stack/
+├── 04_binary_search/
+├── 05_sliding_window/
+├── 06_linked_list/
+├── 07_queues_and_sorting/
+├── 08_trees_and_recursion/
+└── 09_mixed_practice/
